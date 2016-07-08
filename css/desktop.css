@@ -22,6 +22,10 @@ p.mobile-t{
 	background: #393939;	
 }
 
+.header-info--contact{
+	display: block;
+}
+
 .header-info--contact img,
 .header-info--contact p{
 	display: inline-block;
